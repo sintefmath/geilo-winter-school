@@ -10,4 +10,4 @@ The Geilo Winter School is an annual meeting place for PhD students, postdocs, a
 
 Stay updated through this webpage, our [LinkedIn page](https://www.linkedin.com/company/geilo-winter-school/?) page, or by joining the mailing list via geilowinterschool@sintef.no.
 
-![Geilo Winter School Sign](/images/photos/gws-sign.jpg)
+![Geilo Winter School Sign]({{ site.baseurl }}/images/photos/gws-sign.jpg)
