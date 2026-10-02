@@ -5,6 +5,13 @@ author_profile: true
 image_width: "30%"
 ---
 
+### [2026: Uncertainty Quantification for Scientific Computing and Intelligent Systems]({{ site.baseurl }}/2026/)
+The 26th edition of the Geilo Winter School, in collaboration with the [Norwegian AI Cloud (NAIC)](https://www.naic.no/), took place in Geilo, Norway from **Sunday January 18 to Friday January 23, 2026**.
+
+**Are we sure?** We increasingly rely on complex computations and simulations to support decision-making. But behind each answer lies a complex web of algorithmic approximations and data-driven parameters. So, how certain can we really be?
+
+At the 26th Geilo Winter School, we explored the foundations and frontiers of uncertainty quantification, starting from classical scientific computing and extending into the rapidly evolving field of scientific machine learning.
+
 ### [2025: Inverse Problems](https://www.sintef.no/projectweb/geilowinterschool/2025-inverse-problems/)
 The 2025 winter school explored modern methods for solving inverse problems in imaging, physics, and computational science. The lectures covered both classical and machine‑learning‑based approaches, including regularization, deep learning for reconstruction, learned priors, and generative models. Participants were also introduced to differentiable programming and the Julia SciML ecosystem for tackling inverse problems in complex dynamical systems. Additional lectures addressed inverse methods in water‑wave physics, and the program concluded with an overview of real‑time geological inversion, illustrating how sequential and data‑driven techniques can guide geosteering decisions.
 
