@@ -4,8 +4,6 @@ title: "Geilo Winter School"
 author_profile: true
 ---
 
-## Geilo Winter Schools in eScience
-
 SINTEF has organized an annual winter school in Geilo since 2001, on different topics within eScience and computational mathematics. The schools have been funded by the Research Council of Norway, and have provided hundreds of lectures on topics relevant to the Norwegian eScience community, ranging from parallel computing and Big Data to Monte Carlo simulations and continuum mechanics. The first fifteen winter schools have attracted over 800 participants from industry, research, and academic institutions in Norway, Scandinavia, and the world. The schools continued for the period 2021 - 2025 under project number 311829.
 
 The purpose of the winter school is to establish an annual meeting place where young researchers can get updated on new ideas, methods and theories within the eScience feld and collaborate and exchange ideas and experience. Each winter school consists of a series of 24-30 lectures (45 minutes each) and lasts from Sunday afternoon to Friday lunch. The lectures will focus on advanced methods and theories in computational mathematics, statistics, and/or computer science that are relevant to a wide range of applications of national interest. A new topic is chosen each year by a scientic committee.

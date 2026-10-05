@@ -7,7 +7,7 @@ author_profile: true
 Below, you will find answers to frequently asked questions. Do not hesitate to get in touch if you cannot find the one you are looking for.
 
 ## What does a typical winter school week look like?
-A typical winter school day starts with lectures from 09:00 to 10:30, followed by a long midday break for lunch and socializing, whether you are skiing or enjoying the hotel spa facilities. Lectures resume at 15:00 and continue until 18:30, before a shared dinner in the hotel restaurant at 19:00. The image below shows a typical program for the full week.
+A typical winter school day starts with lectures from 09:00 to 10:30, followed by a long midday break for lunch and socializing, whether you are skiing or enjoying the hotel spa facilities. Lectures resume at 15:00 and continue until 18:30, before a shared dinner in the hotel restaurant at 19:30. The image below shows a typical program for the full week.
 
 <img src="{{ site.baseurl }}/images/typical-schedule.png" style="float: right; width: {{ page.image_width }}; margin-left: 20px; margin-bottom: 50px">
 
