@@ -11,6 +11,12 @@ A typical winter school day starts with lectures from 09:00 to 10:30, followed b
 
 <img src="{{ site.baseurl }}/images/typical-schedule.png" style="float: right; width: {{ page.image_width }}; margin-left: 20px; margin-bottom: 50px">
 
+## Who can attend the winter school?
+
+**Short answer:** Anyone!
+
+**Longer answer:** The school is mainly aimed at early-career researchers, usually PhD students and postdocs. Senior researchers and professors also attend every year, and participants come from both academia and industry. There are no formal prerequisites, but we recommend a working knowledge of mathematics and programming. If a particular school has more specific prerequisites, we will announce them in advance.
+
 ## Can I get ECTS credits for attending the winter school?
 Probably. The winter school itself cannot award ECTS credits, but we can provide a certificate of attendance with recommendations for credits that students can submit to their home institution. This is generally contingent on the student submitting a written report on their learning from the school. **The current recommendation is 5 ECTS credits**. To the best of our knowledge, no student has been denied credits from their home institution after attending the school.
 
